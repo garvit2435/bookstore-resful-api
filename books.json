@@ -1,0 +1,38 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "123",
+        "price": 10.99,
+        "quantity": 4
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "234",
+        "price": 8.99,
+        "quantity": 6
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": "345",
+        "price": 12.50,
+        "quantity": 5
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "456",
+        "price": 9.80,
+        "quantity": 7
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "567",
+        "price": 7.99,
+        "quantity": 3
+    }
+]
+
